@@ -1,0 +1,5 @@
+header,predicate,type,value,attribute,subject_id
+DisplayName2,rdfs:label,plain,,,$root
+City,grid:cityName,plain,,,$root
+BeginDate,grid:establishedYear,plain,,,$root
+ConstituentID,ex:hasConstituent,iris,http://pic.nypl.org/constituents/,,$root
